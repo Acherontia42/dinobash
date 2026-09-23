@@ -55,11 +55,12 @@ int main()
 		}
 		else if(cmd2 == "cd")
 		{
-			
+			// probably some sort of exec?
 		}
 		else
 		{
-			
+			//definitely some sort of exec
+			//printing text when something is running in the background
 		}
 		
 		
