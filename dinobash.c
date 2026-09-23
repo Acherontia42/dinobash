@@ -60,7 +60,11 @@ int main()
 		else
 		{
 			//definitely some sort of exec
-			//printing text when something is running in the background
+
+			//if: run in background
+			//continue on
+			//if: not run in background
+			//print message
 		}
 		
 		
